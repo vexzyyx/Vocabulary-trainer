@@ -1,2 +1,1 @@
-# vocabulary-trainer
-A simple vocabulary trainer
+You can learn vocabulary alot easier with this program without paying shit.
