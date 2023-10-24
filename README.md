@@ -2,7 +2,7 @@
 You can create custom vocabulary quizzes with this python script.  
 
 **How to use:**  
-Firstly, you need to enter all your words and their translations into the 'vocabulary' list. 
+Firstly, you need to enter all your words and their translations into the 'vocabulary' list.  
 Secondly, replace the word '--language--' in the first print with the actual language.  
 When you are don, run the script.  
   
