@@ -1,12 +1,22 @@
 import random
 
-#set your vocabulary here
-vocabulary = {"House":"Haus","Apple":"pomme","Man":"homme"}
+#Delete and set your actual vocabulary here
+vocabulary = {
+    "Apple": "pomme",
+    "Man": "homme",
+    "Woman": "femme",
+    "Car": "voiture",
+    "Dog": "chien",
+    "Cat": "chat",
+    "Book": "livre",
+    "Hello": "bonjour",
+    "Goodbye": "au revoir"
+}
 
 while True:
   language1, language2 = random.choice(list(vocabulary.items()))
   #change to the correct language
-  answer = input(f"What is the --language-- word for \033[94m{language1}\033[0m?\n> ")
+  answer = input(f"What is the french word for \033[94m{language1}\033[0m?\n> ")
   if answer.lower() == language2.lower():
     print(f"\033[92mCorrect!\033[0m")
   else:
