@@ -1,5 +1,5 @@
 # Vocabulary Trainer  
-You can create custom vocabulary quizzes with this python script.  
+Create custom vocabulary quizzes with this simple python script.  
 
 **How to use:**  
 1. Enter all your words and their translations into the 'vocabulary' list   
